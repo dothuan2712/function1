@@ -9,7 +9,7 @@ export default function App() {
     setAge(age + 1);
   };
   const onChangeName = () => {
-    setName('Cee');
+    setName(['Cee','Hannah','Cherry']);
   };
 
   return (
